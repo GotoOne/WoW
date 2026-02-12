@@ -51,13 +51,29 @@ Death Knight
   Frost - 1|TdBfK0NxGAfw4zTEXgDf5WJyzY1TXCmplSx/Ji/ADen5abWpyZVOshsXlGOjzJaLvQpyIbwCd241/8rQiY3yfM9mufk89fvV8+e7Fdos9Y65vpsfh+nA6ghMJ+QB8gKpQB4hT5BnSBXyCvmC1CE/uJ+AfCJZRfIN8oGbUUgN8g75jlhtK8ekSE5gLK2HRRhbqxdXZir8KeDa15rrU/IXZE+ZDSsHjjKXgWnnyxBfzvmSIF1KopsM83de2d4lZ8r+JYeU2XeKbOCqznrL/uyWd2BCHF9SjpbInVJIkXTEsgd62HX9tH/nb6/G2Eywa3OlcGsvp3FFsF9wgFe2s60IeP2/eUEkXjyabQbHEGvMMUjQ9adjqcXlhcnoYDSWSqbXfgE=
   Unholy - 1|TZG9SgNRFIQ3MTFCjBGJMRMQo52Fz2AjIVaCELSwSbVG9+yCgmCnomUwP5soqEjARxALTSM2PoGFhV0CiiCWoqhnblRsvmH3zuHOmbsb2mqmppvhncOZtBVIFOF5kD5IHDII9xneOSQGSUEWICNqsZNwPiEW3TYkorryBAlBeiD9kAFIL5wPSBC3LUiU5y/EKydWIUNUl3AgSVU/QOQUtUtiXTH/SFzQ1SDqaJdVyw+K/TZkWLWypIhdK4pXvOBdUe3wYDRtBSc3OCdEjZaW/pu446dPHCgKbzQfEfecBbFInCqObxQnX4qxLAPWz8ZLv6GqnX/ReV03sMnv1/9Gcj/raBjdO7jX3cSEN5FN+EQjUzJVxU3ZUbau5bF1fYcI30Hr9DxTtLVtem+G57JrBTs/m5nK5N1lz9n8Bg==
 
-/// Addon list
-SimpleCombatLogger
-Simulationcraft
-SharedMedia Additional Fonts
-QuickQuest
-Harreks Advanced Tooltips
+/// Addon list (Mandatory)
+BugGrabber
+BetterCooldownManager
+BigWigs
+BuffReminders
+BugSack
+Details
+Elvui
+Falcon
+LittleWigs
+MPlusTimer
+MethodRaidTools
+MythicDungeonTools
+Plater
+RCLootCouncil
+TargetedSpells
+
+/// Addon list (Optional)
 Auctionator
-Baganator Syndicator
+Baganator
+Syndicator
+Simulationcraft
+AutoCombatLogger
+PremadeGroupFsilter
 
 /// Addons Profils Import
